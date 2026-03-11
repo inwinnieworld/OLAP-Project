@@ -21,5 +21,4 @@ Sử dụng MDX để truy xuất các chỉ số quan trọng. Một số truy 
 - Phân tích xu hướng doanh thu theo thời gian.
 - Lọc hiệu suất bán hàng theo khu vực.
 
-## 🎥 Video Demo
-[![Xem Video Demo](https://drive.google.com/drive/folders/1ZEU9pgym9QAwRC6Xc_gYb50DRX_DhGry?usp=sharing)](LINK_YOUTUBE_CỦA_BẠN)
+
